@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="AUARTILLERYVEHICLE_SKN" Hierarchy="AUARTILLERYVEHICLE_SKL">
+		<SubObject SubObjectID="FX_JETGLOW03" BoneIndex="30">
+			<RenderObject>
+				<Mesh>AUARTILLERYVEHICLE_SKN.FX_JETGLOW03</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="FX_JETGLOW04" BoneIndex="23">
+			<RenderObject>
+				<Mesh>AUARTILLERYVEHICLE_SKN.FX_JETGLOW04</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="FX_JETGLOW01" BoneIndex="17">
+			<RenderObject>
+				<Mesh>AUARTILLERYVEHICLE_SKN.FX_JETGLOW01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="FX_JETGLOW02" BoneIndex="9">
+			<RenderObject>
+				<Mesh>AUARTILLERYVEHICLE_SKN.FX_JETGLOW02</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="NEWSKIN" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUARTILLERYVEHICLE_SKN.NEWSKIN</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBBOX01" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>AUARTILLERYVEHICLE_SKN.OBBOX01</CollisionBox>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

@@ -1,0 +1,576 @@
+// Archer Maiden
+  
+  Name:JapanArcherInfantry
+    "Archer Maiden"
+  End
+  
+  Desc:JapanArcherInfantry
+    "Non retenues parmi les anges de l'apocalypse, ces femmes se battent avec des armes plus traditionnelles."
+  End
+  
+  Type:JapanArcherInfantry
+    "Unité antiaérienne / anti-surface"
+  End
+  
+  Name:ArcherArrowBarrageSpecialPower
+    "Tir de barrage"
+  End
+  
+  Desc:ArcherArrowBarrageSpecialPower
+    "Tir de flèches spéciales qui se transforment en pointes capables d'anéantir l'infanterie."
+  End
+  
+  DialogEvent:MIIn_ArcherMaiden
+    "Les Archer Maiden utilisent leurs arcs surpuissants pour frapper les ennemis terrestres et aériens. Ces arcs peuvent faire de très gros dégâts malgré leur faible vitesse de tir. La capacité spéciale des Archer Maiden permet de lancer une salve de flèches d'énergie qui peut frapper plusieurs cibles dans une zone."
+  End
+  
+// Cryo Legionnaire
+  
+  Name:AlliedLegionnaireInfantry
+    "Cryo-légionnaire"
+  End
+  
+  Desc:AlliedLegionnaireInfantry
+    "Soldat expérimental équipé d'une protection optimale et d'un arsenal à glacer le sang."
+  End
+  
+  Type:AlliedLegionnaireInfantry
+    "Unité anti-surface avancée"
+  End
+  
+  Name:CryoLeapSpecialPower
+    "Saut de la mort"
+  End
+  
+  Desc:CryoLeapSpecialPower
+    "Saute les pieds en avant vers un point ciblé, endommageant ou brisant tous les ennemis dans la zone."
+  End
+  
+  Desc:PlayerPowerHighTechnology
+    "Optimisez les capacités spéciales de vos chiens d'attaque, chars de garde, cryocoptères, légionnaires et porte-avions !"
+  End
+  
+  DialogEvent:MAIn_CryoLegionnaire
+    "Le cryo-légionnaire est une infanterie lourde capable de geler sur place ses cibles en une fraction de seconde grâce à ses canons de glace. La capacité spéciale du cryolégionnaire, le saut de la mort, lui permet d'écraser les cibles gelées, de s'immiscer dans un combat ou de se retirer."
+  End
+  
+// Desolator
+  
+  Name:SovietDesolatorInfantry
+    "Soldat ravageur"
+  End
+  
+  Desc:SovietDesolatorInfantry
+    "D'épaisses combinaisons chimiques protègent ces sadiques des horribles poisons qu'ils utilisent comme armes."
+  End
+  
+  Type:SovietDesolatorInfantry
+    "Unité anti-infanterie avancée"
+  End
+  
+  Name:DesolatorWeaponMode
+    "Mode agglutination"
+  End
+  
+  Desc:DesolatorWeaponMode
+    "Passage au tir de projectiles empoisonnés qui rongent le métal. Utilisez le spray toxique pour un meilleur résultat."
+  End
+  
+  Name:DesolatorWeaponModeOff
+    "Mode toxique"
+  End
+  
+  Desc:DesolatorWeaponModeOff
+    "Retour au fluide toxique qui fait fondre les os et la chair humaine."
+  End
+  
+  DialogEvent:MSIn_Desolator1
+    "Les soldats ravageurs dissimulent du poison mortel dans leur uniforme chimique d'infanterie lourde. Ces unités peuvent utiliser du poison en spray sur l'infanterie ennemie ou passer en mode agglutination pour lancer des projectiles d'acide destructeurs sur les véhicules. Il peuvent également déloger les ennemis postés en garnison."
+  End
+  
+  
+  
+// Future Tank X-1
+  
+  Name:AlliedFutureTank
+    "Char du futur X-1"
+  End
+  
+  Desc:AlliedFutureTank
+    "Imposante machine de guerre sans pilote dont les brouilleurs de neutrons peuvent anéantir des pelotons de chars entiers."
+  End
+  
+  Type:AlliedFutureTank
+    "Char anti-surface avancé"
+  End
+  
+  Name:AlliedFutureTankLaserWeapon
+    "Rayon antiémeute"
+  End
+  
+  Desc:AlliedFutureTankLaserWeapon
+    "Tir de rayon à ultra haute énergie sur une cible, qui désagrège tout ce qui se trouve sur son passage."
+  End
+  
+  DialogEvent:MAIn_FutureTank
+    "Le char du futur X-1 est un véhicule de combat lourdement blindé et télécommandé. Aucune unité terrestre ne peut rivaliser. Ses canons expérimentaux sont capables de fendre les blindages les plus épais et son rayon anti-émeute lui permet de prendre le dessus sur ses ennemis."
+  End
+  
+  
+  
+// Giga-Fortress
+  
+  Name:JapanFortressShip
+    "Giga-forteresse"
+  End
+  
+  Desc:JapanFortressShip
+    "Forteresse navale dotée de systèmes d'armement et d'autres secrets indescriptibles."
+  End
+  
+  Type:JapanFortressShip
+    "Navire anti-surface / antiaérien avancé"
+  End
+  
+  Name:JapanFortressShip_Air
+    "Giga-forteresse"
+  End
+  
+  Desc:JapanFortressShip_Air
+    "Cette arme de siège volante incroyablement destructrice symbolise l'esprit rebelle de l'Empire."
+  End
+  
+  Type:JapanFortressShip_Air
+    "Bombardement lourd avancé"
+  End
+  
+  Name:JapanFortressShipTransformAircraftMode
+    "Mode forteresse volante"
+  End
+  
+  Desc:JapanFortressShipTransformAircraftMode
+    "Passage en mode aérien, où le Souffle de Dieu pourrait faire voler la Terre entière en éclats."
+  End
+  
+  Name:JapanFortressShipTransformShipMode
+    "Mode forteresse flottante"
+  End
+  
+  Desc:JapanFortressShipTransformShipMode
+    "Retour à la forme flottante, dont les nombreux armements vont faire des vagues."
+  End
+  
+  DialogEvent:MIIn_GigaFortress
+    "La giga-forteresse est l'une des armes les plus puissantes de l'Empire. Dans sa configuration principale, ses canons multiples et ses roquettes à photons suffisent à neutraliser toute une force de frappe navale. Dans son autre configuration, elle devient une terrible artillerie longue portée, capable de se rendre, par les airs, où elle le désire."
+  End
+  
+  
+  
+// Giga-Fortress Core
+  
+  Name:JapanFortressShipEgg
+    "Drone Giga-forteresse"
+  End
+  
+  Desc:JapanFortressShipEgg
+    "Des drones spéciaux qui se déploient en Giga-forteresse, un immense vaisseau de guerre lourdement armé."
+  End
+  
+  Type:JapanFortressShipEgg
+    "Unité d'artillerie lourde portative"
+  End
+  
+  Name:JapanFortressShipEggUnpackSpecialPower
+    "Déploiement"
+  End
+  
+  Desc:JapanFortressShipEggUnpackSpecialPower
+    "Lancement du déploiement en imposante Giga-forteresse. Elle doit être sur l'eau."
+  End
+  
+  
+  
+// Grinder
+  
+  Name:SovietGrinderVehicle
+    "Broyeur"
+  End
+  
+  Desc:SovietGrinderVehicle
+    "Rouleau compresseur perfectionné, capable d'écraser tout ce qu'il croise, sur terre comme sur l'eau."
+  End
+  
+  Type:SovietGrinderVehicle
+    "Unité anti-surface avancée"
+  End
+  
+  Name:NitrousBoostSpecialPower
+    "Charge turbo"
+  End
+  
+  Desc:NitrousBoostSpecialPower
+    "Mise en oeuvre de tous les cylindres pour une vitesse de pointe maximale, utile pour rattraper les fuyards."
+  End
+  
+  DialogEvent:MSIn_Grinder1
+    "Le broyeur est un véhicule amphibie lourdement blindé. Dépourvu d'armes conventionnelles, il lui suffit d'écraser les unités plus petites. Il éventre tout aussi facilement les ennemis plus imposants. Son pic d'accélération lui permet de rattraper ses ennemis."
+  End
+  
+  
+  
+// Harbinger Gunship
+  
+  Name:AlliedGunshipAircraft
+    "Avion Harbinger"
+  End
+  
+  Desc:AlliedGunshipAircraft
+    "Certains officiers alliés ont vivement protesté contre l'affrètement de ces énormes avions de soutien lourd."
+  End
+  
+  Type:AlliedGunshipAircraft
+    "Bombardier de soutien avancé"
+  End
+  
+  Name:ToggleAlliedGunship
+    "Mitrailleuse"
+  End
+  
+  Desc:ToggleAlliedGunship
+    "Une arme antipersonnel de 25mm capable de détruire l'infanterie en masse."
+  End
+  
+  Name:ToggleAlliedGunshipAutoCannon
+    "Canons collisionneurs"
+  End
+  
+  Desc:ToggleAlliedGunshipAutoCannon
+    "Retour au canon collisionneur, l'arme ultime des Alliés."
+  End
+  
+  DialogEvent:MAIn_Harbinger
+    "Le Harbinger est une unité de soutien aérien équipée d'une technologie dernier cri. Rares sont les ennemis capables de résister à son canon collisionneur et, si besoin est, il dispose également d'une artillerie antipersonnel pour les plus petites menaces."
+  End
+  
+  
+  
+// Mortar Cycle
+  
+  Name:SovietMortarCycle
+    "Moto-mortier"
+  End
+  
+  Desc:SovietMortarCycle
+    "Cette moto trafiquée serait bien plus rapide si elle ne transportait pas autant de cocktails Molotov et d'explosifs."
+  End
+  
+  Type:SovietMortarCycle
+    "Bombardement léger"
+  End
+  
+  Name:ToggleSovietMortarCycleMolotov
+    "Rafale Molotov"
+  End
+  
+  Desc:ToggleSovietMortarCycleMolotov
+    "Range le mortier pour que l'artilleur placé dans le side-car puisse à nouveau envoyer des cocktails explosifs."
+  End
+  
+  Name:ToggleSovietMortarCycleMortar
+    "Porta-mortier"
+  End
+  
+  Desc:ToggleSovietMortarCycleMortar
+    "Déploiement d'une pièce d'artillerie légère contre les cibles de moyenne à longue portée."
+  End
+  
+  DialogEvent:MSIn_MortarCycle
+    "La moto-mortier est un véhicule d'artillerie légère qui excelle dans les attaques éclair contre les fortifications ennemies ou les unités plus lentes. Elle a le choix entre ses cocktails Molotov et ses obus de mortier, tous deux redoutables pour l'ennemi."
+  End
+  
+  
+  
+// Pacifier FAV
+  
+  Name:AlliedArtilleryVehicle
+    "Pacificateur"
+  End
+  
+  Desc:AlliedArtilleryVehicle
+    "Une fois son grand canon déployé, ce véhicule d'artillerie sème la terreur."
+  End
+  
+  Type:AlliedArtilleryVehicle
+    "Bombardement lourd avancé"
+  End
+  
+  Name:ToggleAlliedArtillerySiegeWeapon
+    "Déploiement d'artillerie"
+  End
+  
+  Desc:ToggleAlliedArtillerySiegeWeapon
+    "Se fixe solidement au sol afin de pouvoir utiliser son grand canon longue portée."
+  End
+  
+  Name:ToggleAlliedArtilleryAutoCannon
+    "Repli d'artillerie"
+  End
+  
+  Desc:ToggleAlliedArtilleryAutoCannon
+    "Quitte sa position fixe, replie son grand canon et déploie deux mini-canons 7,62 mm."
+  End
+  
+  DialogEvent:MAIn_Pacifier
+    "Le char de pacification peut neutraliser les ennemis à longue distance grâce à ses grands canons. Il se déploie sur une position terrestre fixe pour engager les tirs. Lorsqu'il n'est pas déployé, il peut traverser les zones terrestres et navales, et se protéger à l'aide de ses mitrailleuses lourdes."
+  End
+  
+  
+  
+// Reaper
+  
+  Name:SovietHeavyWalkerVehicle
+    "Faucheuse"
+  End
+  
+  Desc:SovietHeavyWalkerVehicle
+    "Ce lointain parent de la mygale, plus costaud et plus imposant, possède en outre des roquettes et des grenades."
+  End
+  
+  Type:SovietHeavyWalkerVehicle
+    "Blindé anti-surface / antiaérien"
+  End
+  
+  Name:SovietHeavyWalkerDeployedTurret
+    "Tourelle faucheuse"
+  End
+  
+  Desc:SovietHeavyWalkerDeployedTurret
+    "Ce prototype démuni de jambes peut tout de même réduire en bouillie les unités qui s'approchent de lui."
+  End
+  
+  Type:SovietHeavyWalkerDeployedTurret
+    "Défense de base avancée"
+  End
+  
+  Name:LeapDeploySpecialPower
+    "Saut expérimental"
+  End
+  
+  Desc:LeapDeploySpecialPower
+    "S'envole et retombe avec une force inouïe sur une zone-cible ou un ennemi, avant de se replier et de s'immobiliser."
+  End
+  
+  DialogEvent:MSIn_Reaper1
+    "La faucheuse est un ancien prototype de la mygale, plus gros et plus redoutable. Elle peut lancer plusieurs grenades et roquettes sur de multiples cibles peu volumineuses, dont certains avions. Sa capacité spéciale est le saut, mais ses pattes ont tendance à se briser à l'atterrissage. La faucheuse est donc plus efficace en position d'artillerie fixe."
+  End
+  
+  
+  
+// Steel Ronin
+  
+  Name:JapanSentinelVehicle
+    "Ronin blindé"
+  End
+  
+  Desc:JapanSentinelVehicle
+    "Des sentinelles aussi froides que leurs pilotes, conçues pour décimer les divisions blindées ennemies."
+  End
+  
+  Type:JapanSentinelVehicle
+    "Robot anti-blindage"
+  End
+  
+  Name:LaserGlaiveBlastSpecialPower
+    "Onde énergétique"
+  End
+  
+  Desc:LaserGlaiveBlastSpecialPower
+    "Frappe le sol avec une énergie folle qui se précipite vers l'avant, consumant tout sur son passage."
+  End
+  
+  DialogEvent:MIIn_SteelRonin
+    "Le ronin blindé est un robot téléguidé conçu pour supporter des tirs nourris jusqu'à être assez proche pour attaquer. Il déploie alors ses bras et élimine plusieurs cibles en même temps. Avec sa capacité spéciale, il envoie une onde d'énergie dans le sol qui endommage tout sur son passage."
+  End
+  
+  
+
+RULE:RANDOMCRATES
+  // checkbox caption
+  "Désactiver les super-armes"
+End
+
+
+  
+// Maps
+  
+  MAP:MAP_MP_2_Feasel1_EP1
+    "Au revoir, réservoir"
+  End
+  
+  MAP:MAP_MP_2_Feasel10_EP1
+    "Ecoles rivales"
+  End
+  
+  MAP:MAP_MP_2_Feasel12_EP1
+    "Pluie de satellites"
+  End
+  
+  MAP:MAP_MP_2_Feasel2_EP1
+    "Arène insulaire"
+  End
+  
+  MAP:MAP_MP_2_Feasel3_EP1
+    "Cruelle leçon"
+  End
+  
+  MAP:MAP_MP_2_Feasel4_EP1_SK
+    "Pentes feutrées"
+  End
+  
+  MAP:MAP_MP_2_Feasel5_EP1
+    "Siège de l'Oni"
+  End
+  
+  MAP:MAP_MP_2_Feasel6_EP1
+    "Ravin de broyage"
+  End
+  
+  MAP:MAP_MP_2_Feasel7_EP1
+    "Lac Kodiak"
+  End
+  
+  MAP:MAP_MP_2_Feasel8_EP1
+    "Plateau périlleux"
+  End
+  
+  MAP:MAP_MP_2_Feasel9_EP1
+    "Crique de Killington"
+  End
+  
+  MAP:MAP_MP_3_Feasel1_EP1
+    "Ilegrad"
+  End
+  
+  MAP:MAP_MP_3_Feasel2_EP1
+    "Rivière incandescente"
+  End
+  
+  MAP:MAP_MP_4_Feasel10_EP1
+    "Allée du Shogun"
+  End
+  
+  MAP:MAP_MP_4_Feasel11_EP1
+    "Château des ours"
+  End
+  
+  MAP:MAP_MP_4_Feasel12_EP1
+    "La voie de l'assassin"
+  End
+  
+  MAP:MAP_MP_4_Feasel13_EP1
+    "Désolation"
+  End
+  
+  MAP:MAP_MP_4_Feasel2_EP1
+    "Hydrocarbures"
+  End
+  
+  MAP:MAP_MP_4_Feasel3_EP1
+    "Ile singulière"
+  End
+  
+  MAP:MAP_MP_4_Feasel4_EP1
+    "Base de combat Quartus"
+  End
+  
+  MAP:MAP_MP_4_Feasel5_EP1_SK
+    "Question d'honneur"
+  End
+  
+  MAP:MAP_MP_4_Feasel6_EP1
+    "Guerre de tranchées"
+  End
+  
+  MAP:MAP_MP_4_Feasel7_EP1
+    "Traque insulaire"
+  End
+  
+  MAP:MAP_MP_4_Feasel8_EP1
+    "Isla Nooblar"
+  End
+  
+  MAP:MAP_MP_4_Feasel9_EP1
+    "Guerre géo-commerciale"
+  End
+  
+  MAP:MAP_MP_6_Feasel1_EP1
+    "Montagne de l'apocalypse"
+  End
+  
+  MAP:MAP_MP_6_Feasel2_EP1
+    "Base de combat Hexis"
+  End
+  
+  MAP:MAP_MP_6_Feasel3_EP1
+    "Résistance"
+  End
+  
+  
+  
+// Credits
+  
+  Credits:ModName
+    "Red Alert 3: Upheaval"
+  End
+  
+  Credits:ModVersion
+    "v1.16"
+  End
+  
+  Credits:ModAuthorTitle
+    "Auteur"
+  End
+  
+  Credits:ModAuthor1
+    "Bibber"
+  End
+  
+  Credits:ModHomepageTitle
+    "Page d'accueil"
+  End
+  
+  Credits:ModHomepage1
+    "http://www.moddb.com/mods/red-alert-3-upheaval"
+  End
+  
+  Credits:ModHomepage2
+    "http://bibber.eu"
+  End
+  
+  Credits:ModPartnerTitle
+    "Traduction Française"
+  End
+  
+  Credits:ModPartner1Name
+    "Xan"
+  End
+  
+  Credits:ModPartner1Homepage1
+    "https://xan105.com"
+  End
+  
+  
+  
+// GUI
+  
+  GUI:FullGameName
+    "Command & Conquer Red Alert 3: Upheaval"
+  End
+  
+  
+  
+// Version
+  
+  Version:Format2
+    "Red Alert 3: Upheaval 1.16"
+  End

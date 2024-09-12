@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="SUAntiVehicleVehicleTech1_Upheaval" Hierarchy="SUAntiVehicleVehicleTech1_Upheaval">
+		<SubObject SubObjectID="Upgrade_FutureTank" BoneIndex="1">
+			<RenderObject>
+				<Mesh>SUAntiVehicleVehicleTech1_SKN.Upgrade_FutureTank</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_GigaFortress" BoneIndex="2">
+			<RenderObject>
+				<Mesh>SUAntiVehicleVehicleTech1_SKN.Upgrade_GigaFortress</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

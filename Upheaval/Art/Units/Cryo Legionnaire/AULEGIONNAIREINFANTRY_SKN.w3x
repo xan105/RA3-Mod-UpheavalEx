@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="AULEGIONNAIREINFANTRY_SKN" Hierarchy="AULEGIONNAIREINFANTRY_SKL">
+		<SubObject SubObjectID="FX_JET2" BoneIndex="5">
+			<RenderObject>
+				<Mesh>AULEGIONNAIREINFANTRY_SKN.FX_JET2</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="FX_JET1" BoneIndex="6">
+			<RenderObject>
+				<Mesh>AULEGIONNAIREINFANTRY_SKN.FX_JET1</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="AULEGIONNAIREINFANTRY" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AULEGIONNAIREINFANTRY_SKN.AULEGIONNAIREINFANTRY</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBBOX" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>AULEGIONNAIREINFANTRY_SKN.OBBOX</CollisionBox>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

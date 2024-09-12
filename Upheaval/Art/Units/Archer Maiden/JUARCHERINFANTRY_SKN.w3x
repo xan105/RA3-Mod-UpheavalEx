@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="JUARCHERINFANTRY_SKN" Hierarchy="JUARCHERINFANTRY_SKL">
+		<SubObject SubObjectID="PLANE02" BoneIndex="0">
+			<RenderObject>
+				<Mesh>JUARCHERINFANTRY_SKN.PLANE02</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="ARROW" BoneIndex="27">
+			<RenderObject>
+				<Mesh>JUARCHERINFANTRY_SKN.ARROW</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBJECT01" BoneIndex="0">
+			<RenderObject>
+				<Mesh>JUARCHERINFANTRY_SKN.OBJECT01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBBOX01" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>JUARCHERINFANTRY_SKN.OBBOX01</CollisionBox>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

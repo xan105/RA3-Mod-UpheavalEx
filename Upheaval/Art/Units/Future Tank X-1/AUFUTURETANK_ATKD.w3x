@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- There is no guarantee that the extracted animation is correct! - Bibber -->
+	<W3DAnimation id="AUFUTURETANK_ATKD" Hierarchy="AUFUTURETANK_SKL" NumFrames="1" FrameRate="30">
+		<Channels>
+			<ChannelQuaternion Pivot="4" Type="Orientation" FirstFrame="0">
+				<Frame X="0.116463" Y="0.000000" Z="0.000000" W="0.993195"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="5" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="-1.000000" Z="0.000000" W="0.000000"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="6" Type="XTranslation" FirstFrame="0">
+				<Frame>-4.628175</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="7" Type="XTranslation" FirstFrame="0">
+				<Frame>-10.054321</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="10" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.121945" Y="0.000000" Z="0.000000" W="0.992537"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="11" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="-1.000000" Z="0.000000" W="0.000000"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="12" Type="XTranslation" FirstFrame="0">
+				<Frame>-10.474121</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="13" Type="XTranslation" FirstFrame="0">
+				<Frame>-5.038087</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

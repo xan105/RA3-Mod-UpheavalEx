@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	<Includes>
+		<!-- GLOBAL DATA OVERRIDES -->
+		
+		<!-- Mod specific -->
+		<Include type="all" source="Global/Specific.xml" />
+		
+		<!-- Common used -->
+		<Include type="all" source="Global/Common.xml" />
+	</Includes>
+</AssetDeclaration>

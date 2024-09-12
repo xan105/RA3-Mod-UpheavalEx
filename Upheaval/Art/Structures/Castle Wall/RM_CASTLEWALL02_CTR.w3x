@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="RM_CASTLEWALL02" Hierarchy="RM_CASTLEWALL02">
+		<SubObject SubObjectID="OBJDEFAULT" BoneIndex="1">
+			<RenderObject>
+				<Mesh>RM_CASTLEWALL02.OBJDEFAULT</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

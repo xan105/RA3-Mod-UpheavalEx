@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="JUFORTRESSSHIP_TRANS" Hierarchy="JUFORTRESSSHIP_TRANS">
+		<SubObject SubObjectID="FX_JETGLOW01" BoneIndex="48">
+			<RenderObject>
+				<Mesh>JUFORTRESSSHIP_TRANS.FX_JETGLOW01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="FX_JETGLOW02" BoneIndex="22">
+			<RenderObject>
+				<Mesh>JUFORTRESSSHIP_TRANS.FX_JETGLOW02</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBBOX01" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>JUFORTRESSSHIP_TRANS.OBBOX01</CollisionBox>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="NEWSKIN" BoneIndex="0">
+			<RenderObject>
+				<Mesh>JUFORTRESSSHIP_TRANS.NEWSKIN</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

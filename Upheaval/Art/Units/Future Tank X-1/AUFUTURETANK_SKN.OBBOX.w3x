@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DCollisionBox id="AUFUTURETANK_SKN.OBBOX">
+		<Center X="-0.655176" Y="-0.752125" Z="18.864712"/>
+		<Extent X="15.666620" Y="17.337524" Z="18.864712"/>
+	</W3DCollisionBox>
+</AssetDeclaration>

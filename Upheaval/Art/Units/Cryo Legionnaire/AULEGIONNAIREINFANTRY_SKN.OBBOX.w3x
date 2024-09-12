@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DCollisionBox id="AULEGIONNAIREINFANTRY_SKN.OBBOX">
+		<Center X="0.069781" Y="-0.110529" Z="10.000000"/>
+		<Extent X="10.000000" Y="10.000000" Z="10.000000"/>
+	</W3DCollisionBox>
+</AssetDeclaration>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="SUHEAVYWALKERVEHICLE_SKN" Hierarchy="SUHEAVYWALKERVEHICLE_SKL">
+		<SubObject SubObjectID="BOX01" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>SUHEAVYWALKERVEHICLE_SKN.BOX01</CollisionBox>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="SCYTHE" BoneIndex="0">
+			<RenderObject>
+				<Mesh>SUHEAVYWALKERVEHICLE_SKN.SCYTHE</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

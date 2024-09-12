@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="ABBaseDefense_Upheaval" Hierarchy="ABBaseDefense_Upheaval">
+		<SubObject SubObjectID="Upgrade_Cryo" BoneIndex="1">
+			<RenderObject>
+				<Mesh>ABBaseDefense.Upgrade_Cryo</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_Desolator" BoneIndex="2">
+			<RenderObject>
+				<Mesh>ABBaseDefense.Upgrade_Desolator</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_ArcherMaiden" BoneIndex="3">
+			<RenderObject>
+				<Mesh>ABBaseDefense.Upgrade_ArcherMaiden</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_ArcherMaidenString" BoneIndex="4">
+			<RenderObject>
+				<Mesh>ABBaseDefense.Upgrade_ArcherMaidenString</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

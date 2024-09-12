@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="EXFUTURETANKCHARGE" Hierarchy="EXFUTURETANKCHARGE">
+		<SubObject SubObjectID="GEOSPHERE01" BoneIndex="3">
+			<RenderObject>
+				<Mesh>EXFUTURETANKCHARGE.GEOSPHERE01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="PLANE01" BoneIndex="2">
+			<RenderObject>
+				<Mesh>EXFUTURETANKCHARGE.PLANE01</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="CYLINDER01" BoneIndex="1">
+			<RenderObject>
+				<Mesh>EXFUTURETANKCHARGE.CYLINDER01</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- There is no guarantee that the extracted animation is correct! - Bibber -->
+	<W3DAnimation id="JUARCHERINFANTRYCHARGEFX" Hierarchy="JUARCHERINFANTRYCHARGEFX" NumFrames="30" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="Visibility" FirstFrame="0">
+				<Frame>0.972000</Frame>
+				<Frame>0.899603</Frame>
+				<Frame>0.794511</Frame>
+				<Frame>0.666064</Frame>
+				<Frame>0.525941</Frame>
+				<Frame>0.385818</Frame>
+				<Frame>0.257372</Frame>
+				<Frame>0.151111</Frame>
+				<Frame>0.079882</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.053025</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+				<Frame>0.056243</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

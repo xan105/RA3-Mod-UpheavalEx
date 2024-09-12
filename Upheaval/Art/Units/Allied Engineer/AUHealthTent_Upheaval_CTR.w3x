@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="AUHealthTent_Upheaval" Hierarchy="AUHealthTent_Upheaval">
+		<SubObject SubObjectID="RadiusEffect" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUHealthTent_SKN.RadiusEffect</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

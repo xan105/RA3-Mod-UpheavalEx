@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DCollisionBox id="SUHEAVYWALKERVEHICLE_SKN.BOX01">
+		<Center X="0.146641" Y="-0.203505" Z="13.689600"/>
+		<Extent X="19.000000" Y="15.000000" Z="13.689600"/>
+	</W3DCollisionBox>
+</AssetDeclaration>

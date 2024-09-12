@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="AUIFV_Upheaval" Hierarchy="AUIFV_Upheaval">
+		<SubObject SubObjectID="Upgrade_ArcherMaidenString" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUIFV_SKN.Upgrade_ArcherMaidenString</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_Cryo" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUIFV_SKN.Upgrade_Cryo</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_Desolator" BoneIndex="1">
+			<RenderObject>
+				<Mesh>AUIFV_SKN.Upgrade_Desolator</Mesh>
+			</RenderObject>
+		</SubObject>
+		
+		<SubObject SubObjectID="Upgrade_ArcherMaiden" BoneIndex="2">
+			<RenderObject>
+				<Mesh>AUIFV_SKN.Upgrade_ArcherMaiden</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DCollisionBox id="JUFORTRESSSHIP_SKN.OBBOX04">
+		<Center X="15.917739" Y="-51.069973" Z="6.024034"/>
+		<Extent X="17.488625" Y="13.888744" Z="6.024034"/>
+	</W3DCollisionBox>
+</AssetDeclaration>

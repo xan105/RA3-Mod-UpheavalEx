@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DContainer id="AUFUTURETANK_SKN" Hierarchy="AUFUTURETANK_SKL">
+		<SubObject SubObjectID="NEWSKIN_TREADS" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUFUTURETANK_SKN.NEWSKIN_TREADS</Mesh>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="OBBOX" BoneIndex="0">
+			<RenderObject>
+				<CollisionBox>AUFUTURETANK_SKN.OBBOX</CollisionBox>
+			</RenderObject>
+		</SubObject>
+		<SubObject SubObjectID="AUFUTURETANK" BoneIndex="0">
+			<RenderObject>
+				<Mesh>AUFUTURETANK_SKN.AUFUTURETANK</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<WeaponTemplate
+		id="JapanFloatingFortressMainGun"
+		AttackRange="700.0"
+		FireSound="J06_FloatingFortress_WeaponFire"
+		FireFX="FX_JapanLaserFire"
+		FireVeteranFX="FX_JapanLaserFire"
+		WeaponSpeed="999999.0"
+		ClipSize="1"
+		WeaponRecoil="2d"
+		PreAttackType="PER_SHOT"		
+		AutoReloadsClip="AUTO"
+		Flags="ATTACK_NEEDS_LINE_OF_SIGHT NOT_ATTRACTED_BY_MAGNETS"
+		RadiusDamageAffects="ENEMIES"
+		RequiredAntiMask="ANTI_WATER ANTI_GROUND ANTI_STRUCTURE"
+		CanFireWhileMoving="false"
+		FinishAttackOnceStarted="true">
+		<PreAttackDelay
+			MinSeconds="0.2s"
+			MaxSeconds="0.2s" />
+		<FiringDuration
+			MinSeconds="3.0s"
+			MaxSeconds="3.0s" />
+		<ClipReloadTime
+			MinSeconds="0.1s"
+			MaxSeconds="0.1s" />
+		<WeaponAiHintInfo
+			UseLongLockOnTimeCode="true" />
+		<Nuggets>
+			<ActivateLaserNugget
+				Lifetime="1s"
+				LaserId="1"/>
+			<ActivateLaserNugget
+				Lifetime="1s"
+				LaserId="2"/>
+			<ActivateLaserNugget
+				Lifetime="1s"
+				LaserId="3"/>
+			<DamageNugget
+				id="ModuleTag_DamageNugget" 
+				Damage="5000.0"
+				Radius="0.0"
+				DelayTimeSeconds="0.0s"
+				DamageType="EXPLOSIVE"
+				DamageFXType="JAPAN_FORCE"
+				DeathType="NORMAL"/>
+		</Nuggets>
+	</WeaponTemplate>
+</AssetDeclaration>
