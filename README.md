@@ -3,7 +3,7 @@ The infamous Red Alert 3 [Upheaval mod (by Bibber)](https://www.moddb.com/mods/r
 - an optional translation for my French speaking friends 🥖😄
 
 <p align="center">
-  <img src="https://github.com/xan105/RA3-Mod-Upheaval-Extended/raw/main/screenshot/no_super_weapons.png">
+  <img src="https://github.com/xan105/RA3-Mod-UpheavalEx/raw/main/screenshot/no_super_weapons.png">
   <em>No super weapons checkbox option</em>
 </p>
 
